@@ -27,7 +27,7 @@ Aplicatia este creata in Visual Studio 2019, scrisa in limbajul C#.
 
 Baza de date a fost creată  prin Microsoft SQL Server , un sistem de gestionare a bazelor de date relaționale (RDBMS) produs de compania Microsoft. Limbajul de interogare este SQL, iar extensia procedurală este T-SQL.
 
-Pentru generarea de fisiere excel am adaugat in reference-ul programului Microsoft Excel 16.0 Object Library.
+Pentru generarea de fisiere Excel am adaugat in reference-ul programului Microsoft Excel 16.0 Object Library.
 
 Pentru realizarea interfeței, am utilizat cod automat generat de .NET Framework in fișierele Designer. Logo-ul acestui site a fost creat integral in Logo Maker & Adobe Photoshop CC.
 
